@@ -1,0 +1,45 @@
+﻿[
+  {
+    "name": "Paint walls",
+    "surface": "walls",
+    "materials": [
+      {
+        "name": "Emulsion paint",
+        "unit": "litres",
+        "consumption_per_m2": 0.18
+      },
+      {
+        "name": "Primer",
+        "unit": "litres",
+        "consumption_per_m2": 0.10
+      }
+    ]
+  },
+  {
+    "name": "Paint ceiling",
+    "surface": "ceiling",
+    "materials": [
+      {
+        "name": "Ceiling paint",
+        "unit": "litres",
+        "consumption_per_m2": 0.15
+      }
+    ]
+  },
+  {
+    "name": "Laminate flooring",
+    "surface": "floor",
+    "materials": [
+      {
+        "name": "Laminate panels",
+        "unit": "m2",
+        "consumption_per_m2": 1.05
+      },
+      {
+        "name": "Underlay",
+        "unit": "m2",
+        "consumption_per_m2": 1.05
+      }
+    ]
+  }
+]
